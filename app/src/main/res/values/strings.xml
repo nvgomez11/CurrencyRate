@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="colones_a_dolares">Colones a Dolares</string>
+    <string name="dolares_a_colones">Dolares a Colones</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="convertir">Convertir</string>
+    <string name="seleccione_una_opci_n">Seleccione una opción.</string>
+</resources>
